@@ -1,0 +1,23 @@
+body {
+    padding: 10px;
+    margin: 0px;
+    background-color: #020202;
+    color:white;
+}
+.container {
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: #232323;
+}
+
+.title h1 {
+    color: rgb(255, 111, 0);
+}
+.block {
+    margin: 20px;
+    background-color: #131313;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 111, 0);
+}
